@@ -1,4 +1,4 @@
-var nama = 'Herby'
+let nama = 'Herby';
 let peran = 'Penyihir';    // input antara tiga peran (Ksatria || Tabib || Penyihir)
 
 
